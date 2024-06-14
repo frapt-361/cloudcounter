@@ -1,7 +1,7 @@
 {
   "name": "cloudcounter",
   "version": "0.1.0",
-  "homepage": "https://frapt-361.github.io/cloudcounter",
+  "homepage": "https://frapt-361.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
